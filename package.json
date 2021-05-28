@@ -1,0 +1,20 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "This is a Chat App built by myself",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medmac01/Chatty.git"
+  },
+  "author": "medmachrouh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medmac01/Chatty/issues"
+  },
+  "homepage": "https://github.com/medmac01/Chatty#readme"
+}
